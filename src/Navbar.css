@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+}
+
+.menu {
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+}
+
+/*# sourceMappingURL=Navbar.css.map */

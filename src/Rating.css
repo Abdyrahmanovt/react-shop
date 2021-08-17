@@ -1,0 +1,9 @@
+.card-title{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FF3E6C;
+}
+.rating-star{
+    text-align: right;
+}
