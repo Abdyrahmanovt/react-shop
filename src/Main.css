@@ -24,6 +24,7 @@
 }
 .section{
     height: calc(100vh - 240px);
+    font-family: 'Roboto', sans-serif;
 }
 .row{
     display: flex;

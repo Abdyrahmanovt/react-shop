@@ -5,10 +5,14 @@
     box-sizing: border-box;
     padding: 28px;
     margin-top: 36px;
+    font-family: 'Roboto', sans-serif;
+
 }
 .card-desc{
     max-width: 219px;
     font-size: 16px;
     line-height: 19px;
     color: #454545;
+    font-family: 'Roboto', sans-serif;
+
 }

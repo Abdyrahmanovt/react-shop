@@ -7,3 +7,6 @@
 .rating-star{
     text-align: right;
 }
+svg{
+    margin-left: 4px;
+}
